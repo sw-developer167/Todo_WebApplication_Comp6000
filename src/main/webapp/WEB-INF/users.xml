@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user>
+    <name>nihi reddy</name>
+    <username>nihitha40633@gmail.com</username>
+    <password>nihitha</password>
+  </user>
+  <user>
+    <name>sajith</name>
+    <username>sajith@gmail.com</username>
+    <password>sajith</password>
+  </user>
+  <user>
+    <name>test</name>
+    <username>test@gmail.com</username>
+    <password>test123</password>
+  </user>
+  <user>
+    <name>test</name>
+    <username>test@mail.com</username>
+    <password>123</password>
+  </user>
+</users>
