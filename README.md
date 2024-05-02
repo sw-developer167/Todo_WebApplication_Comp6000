@@ -10,10 +10,10 @@ This project is a simple yet effective to-do list application built with Java, S
 
 ## Getting started
 
-1. Clone the Repository 
-'''
+1. Clone the Repository
+```
 https://github.com/sw-developer167/Todo_WebApplication_Comp6000
-'''
+```
 2. Set Up Your Environment:
 - Ensure you have a Java development environment set up.
 - Configure a servlet container (like Apache Tomcat) to deploy the application.
