@@ -1,5 +1,7 @@
 # TO-DO Application
 
+Nihitha Reddy Seelam, Sajith Muralidhar, Manas Kothamasu, Lakshmi Sai Praneeth Koduru
+
 Problem Statement:
 Numerous TO-DO programs now in use have complex interfaces and an abundance of features, which irritate users and reduce productivity. Our aim is to provide a system that minimizes superfluous complexity while giving priority to vital functionalities. With an emphasis on performance and simplicity, we hope to give users a more productive and pleasurable task management experience.
 
