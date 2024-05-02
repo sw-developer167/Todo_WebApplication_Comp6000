@@ -1,5 +1,5 @@
 # To-do Web application project
-### by Nihitha Reddy Seelam, Sajith Muralidhar, Manas Kothamasu, Lakshmi Sai Praneeth Koduru
+### Nihitha Reddy Seelam, Sajith Muralidhar, Manas Kothamasu, Lakshmi Sai Praneeth Koduru
 This project is a simple yet effective to-do list application built with Java, Servlets,CSS and XML. It demonstrates key concepts in server-side Java programming, including servlet handling, XML-based data storage, and basic web application architecture.
 
 ## Features 
